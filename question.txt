@@ -1,0 +1,5 @@
+Generate a single sample of 100 observations from some Normal distribution.
+Compute X-bar, the usual estimate of the mean, and compute the standard error in the usual way.
+Now use a large number of bootstrap samples to estimate the standard error.
+Compare your two estimates of the variance of X-bar, and compare these with the theoretical standard error.
+(that is, the one you would get if you actually knew the value of sigma^2)
